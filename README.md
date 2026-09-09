@@ -2,8 +2,8 @@
 
 Backend & DevOps engineer in Apodaca, Nuevo León, México · UTC-6
 
-I build backends and the infrastructure under them — **Go**, **Java**, **PostgreSQL**, and
-**Kubernetes** I run myself. I ship the feature and the deployment, not one or the other.
+**Go**, **Java**, **PostgreSQL**, **Kubernetes**, **CI/CD** — one person for both halves,
+so there's no separate ops hire.
 
 I also have an **Operations Research M.Sc. that I've actually put into production**: a
 real-time delivery-routing optimizer (OptaPlanner) that took throughput from 2 to 5 orders
