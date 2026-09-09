@@ -1,14 +1,18 @@
 # Jorge Garza
 
-Full-stack engineer in Apodaca, Nuevo León, México · UTC-6
+Backend & DevOps engineer in Apodaca, Nuevo León, México · UTC-6
 
 I build backends and the infrastructure under them — **Go**, **Java**, **PostgreSQL**, and
-**Kubernetes** I run myself. My specialization is **regulated fintech**: I integrated
-Mexico's **SPEI** and **STP** payment rails at a licensed fintech and built to CNBV
-compliance requirements. Earlier I built a real-time delivery-routing optimizer
-(OptaPlanner) that took throughput from 2 to 5 orders per driver-hour, tying an Operations
-Research M.Sc. to shipped software, and did SEC 13F/13G compliance regression testing at
-Goldman Sachs.
+**Kubernetes** I run myself. I ship the feature and the deployment, not one or the other.
+
+I also have an **Operations Research M.Sc. that I've actually put into production**: a
+real-time delivery-routing optimizer (OptaPlanner) that took throughput from 2 to 5 orders
+per driver-hour. Routing, scheduling, allocation and capacity problems are the ones I enjoy
+most.
+
+I'm comfortable building under regulation — four years at a licensed Mexican fintech
+integrating **SPEI** and **STP** payment rails against CNBV requirements, and before that
+SEC 13F/13G compliance regression testing at Goldman Sachs.
 
 **Most of my work is in private GitLab repositories** — client and product code that isn't
 mine to publish. What's here is the subset I can open source, plus the tooling I've built
@@ -32,7 +36,7 @@ safe to use. `agentctl` is that opinion written down as software.
 ### Stack
 
 Go · Java · Vue.js · Node.js · PostgreSQL · MySQL · Redis · Kubernetes · Docker ·
-GitLab CI/CD · Jenkins · Cloudflare · AWS · Linux · Laravel
+GitLab CI/CD · Jenkins · Cloudflare · AWS · Linux · Laravel · OptaPlanner
 
 **Available for freelance and contract work**, part-time, remote — full overlap with US and
 Canadian business hours. Bilingual (native Spanish, professional English).
